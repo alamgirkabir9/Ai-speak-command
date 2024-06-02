@@ -1,0 +1,6 @@
+streamlit
+datetime
+wikipedia
+os
+speech_recognition
+pyttsx3
